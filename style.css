@@ -26,6 +26,12 @@ header {
     backdrop-filter: blur(10px);
 }
 
+.hp-logo {
+    height: 64px;
+    width: auto;
+    margin-bottom: 16px;
+}
+
 .plant-header {
     display: flex;
     align-items: center;
